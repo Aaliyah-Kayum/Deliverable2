@@ -1,0 +1,14 @@
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.exe
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.deps.json
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.runtimeconfig.json
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.runtimeconfig.dev.json
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.dll
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\bin\Debug\netcoreapp3.1\Delivarable-2.pdb
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.csproj.AssemblyReference.cache
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.AssemblyInfoInputs.cache
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.AssemblyInfo.cs
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.dll
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.pdb
+C:\Users\Tiger\source\repos\Delivarable-2\Delivarable-2\obj\Debug\netcoreapp3.1\Delivarable-2.genruntimeconfig.cache
